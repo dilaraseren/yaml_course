@@ -1,0 +1,6 @@
+{
+  key: value,
+  "data serizalization language": yaml,
+  version: 1.2,
+  [java, php, go],
+}

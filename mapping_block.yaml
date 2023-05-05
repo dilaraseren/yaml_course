@@ -1,0 +1,7 @@
+key: value
+"data serizalization language" : yaml
+version : 1.2
+list: 
+  - java
+  - php
+  - go

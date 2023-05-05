@@ -1,0 +1,19 @@
+person: 
+  name: dilara
+  age: 23
+  address:  
+    streetname: allow
+    number: 1
+    city: burdur
+    country: Turkey
+
+# Under the key value, create a dictionary which contains 2 dictionaries. Those dictionaries should each contain 2 items.
+
+value: 
+  title:
+   name: dilara
+   age: 23
+  address:  
+    streetname: allow
+    number: 1
+    

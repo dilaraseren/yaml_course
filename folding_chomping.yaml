@@ -1,0 +1,10 @@
+# show for folding : > and | 
+# show for chomping + - and nothing
+
+multi-line : > 
+  Some silly text across multiple lines,
+  very important to include some white spaces:
+
+  And some 
+      more indetation 
+  And some newlines 

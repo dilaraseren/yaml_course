@@ -1,0 +1,6 @@
+config: &db
+  database_name: dbname 
+  password: 123
+config_prod: 
+  <<: *db
+  password: 1234

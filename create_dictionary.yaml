@@ -1,0 +1,11 @@
+value:
+  item1: 42
+  item2: hello
+  item3: 
+    - 1
+    - 2
+    - 3
+  item4:
+    a: 1
+    b: 2
+  item5: true

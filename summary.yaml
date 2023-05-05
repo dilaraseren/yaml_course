@@ -1,0 +1,18 @@
+language: yaml
+version: 1.2
+fun: true
+alternatives: #somewhat alternatives
+ - json
+ - xml
+---
+this is a document 
+---
+I can create as many in one file as a like 
+--- 
+scalars: "with double quotes"
+octal: 0121
+hexadecimal: 0xABC
+
+boolean: true
+nothing: null
+dublicateKeys: not allowed

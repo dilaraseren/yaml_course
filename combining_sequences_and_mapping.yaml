@@ -1,0 +1,14 @@
+languages:
+  - programming:
+      - frontend:
+          - html
+          - css
+          - js
+      - backend:
+          - java
+          - go
+          - python
+  - data serialization:
+      - yaml
+      - json
+

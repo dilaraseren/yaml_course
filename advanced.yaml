@@ -1,0 +1,20 @@
+persons:
+   &someperson
+  - name: dilara
+     age: 23
+     address:
+       streetname: YAML streetname
+       number: 1
+       zipcode: 123456
+       city: Programming City
+       country: The Netherlands
+     phone: !!str 061234567
+  - <<: *someperson
+     name: fatiha
+     address: { streetname: YAML streetname, number: 1 }
+     birthday: 1990-01-01
+description:
+              <-
+   Some important description that is going to span multiple lines.
+   These are not interpreted as new lines due to the < indicator for folding.
+   Also, trailing new lines are going to be ignored due to the chomping -.
